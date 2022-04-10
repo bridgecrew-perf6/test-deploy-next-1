@@ -18,7 +18,7 @@ const products = [
     source:''
   },
   {
-    id3,
+    id:3,
     name:'code-editor-webCam',
     category:'lesson',
     tehnologies:'react',
