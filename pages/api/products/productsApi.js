@@ -27,5 +27,12 @@ const products = [
       category:'shop',
       tehnologies:'motion'
     },
+    {
+        id:5,
+        name:'Box',
+        price:500,
+        category:'Css',
+        tehnologies:'animation'
+      },
   ]
   export default products
