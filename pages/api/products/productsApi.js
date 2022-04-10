@@ -8,5 +8,23 @@ const products = [
     host:'https://react-shop-codito-provider.vercel.app/',
     source:'https://www.youtube.com/watch?v=FsrwoZsAe9k&t=992s'
   },
+  {
+    id:2,
+    name:'filter-hooks-lesson',
+    category:'filter',
+    tehnologies:'react',
+    git:'https://github.com/salvation27/Filter-Lightbox-Gallery',
+    host:'https://filter-lightbox-gallery.vercel.app/',
+    source:''
+  },
+  {
+    id3,
+    name:'code-editor-webCam',
+    category:'lesson',
+    tehnologies:'react',
+    git:'https://github.com/salvation27/code-editor-vebcam',
+    host:'https://code-editor-vebcam.vercel.app',
+    source:'https://www.youtube.com/watch?v=3OVCslLYy90&t=1513s'
+  },
 ]
 export default products
